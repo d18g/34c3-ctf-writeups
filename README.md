@@ -1,1 +1,1 @@
-# 34c3-ctf-writeups
+# writeups
